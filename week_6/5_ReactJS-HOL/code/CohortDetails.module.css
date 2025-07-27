@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  background-color: #e4f5e1;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+dt {
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+.title {
+  font-weight: bold;
+  margin: 20px;
+  font-size: 24px;
+}
